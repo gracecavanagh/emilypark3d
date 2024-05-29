@@ -305,7 +305,7 @@ main {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 65%, rgba(0, 0, 0, 0.7)
-  );
+  background-color: red;
+  /*background-color: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 65%, rgba(0, 0, 0, 0.7));*/
   pointer-events: none;
 }
