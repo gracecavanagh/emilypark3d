@@ -184,6 +184,7 @@ main {
   left: 50%;
   text-align: center;
   text-transform: uppercase;
+  pointer-events: auto;
   color: #fff;
 }
 
@@ -277,6 +278,7 @@ main {
   top: 0;
   right: 0;
   width: 595px;
+  pointer-events: none;
 }
 
 .black-shadow {
@@ -285,6 +287,7 @@ main {
   top: 0;
   right: 0;
   width: 100%;
+  pointer-events: none;
 }
 
 .fog-1 {
@@ -302,5 +305,7 @@ main {
   height: 0;
   top: 0;
   left: 0;
-  background-color: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 65%, rgba(0, 0, 0, 0.7);
+  background-color: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 65%, rgba(0, 0, 0, 0.7)
+  );
+  pointer-events: none;
 }
