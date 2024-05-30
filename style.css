@@ -119,8 +119,8 @@ main {
 .bg-img {
   position: absolute;
   width: 2800px;
-  top: calc(50% - 390px);
-  left: calc(50% - 390px);
+  top: calc(50% - 450px);
+  left: calc(50% - 600px);
   z-index: 1;
 }
   
